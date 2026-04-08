@@ -118,3 +118,12 @@ Port : 2031
 Password : "https://discord.vexanode.cloud"
 Secure : false
 ```
+
+### Hosted by @ [Vyrix](https://client.vyrix.xyz)
+Version 4.x | Sources: YouTube | Spotify | Deezer | For more please check in [Discord](https://discord.vyrix.xyz)
+```bash
+Host : node.vyrix.xyz
+Port : 8003
+Password : "https://discord.vyrix.xyz"
+Secure : false
+```
