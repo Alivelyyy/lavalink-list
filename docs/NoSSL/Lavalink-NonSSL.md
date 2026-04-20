@@ -127,3 +127,13 @@ Port : 2333
 Password : youshallnotpass
 Secure : False
 ```
+
+### Hosted by @ [ApeX Devs](https://discord.apex-dev.org)
+Version 4.x
+[Website](https://apex-dev.org)
+```bash
+Host : lava.mimibot.app
+Port : 5046
+Password : youshallnotpass
+Secure : False
+```
