@@ -27,3 +27,12 @@ Because lavalink is based off spring.
 
 
 ### If you find this useful give it a star ⭐️
+
+
+---
+
+## 📚 Full Project Documentation
+
+A complete **5-page engineering deep-dive** for this repo — overview & purpose, technology stack & architecture, feature-by-feature breakdown, code internals & systems design, and development timeline & resume highlights — is available in [`DOCUMENTATION.md`](DOCUMENTATION.md).
+
+*Part of the complete coding-history dossier generated on 2026-10-18.*
